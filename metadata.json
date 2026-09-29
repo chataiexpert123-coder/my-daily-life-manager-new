@@ -1,0 +1,6 @@
+{
+  "name": "My Daily Life Manager",
+  "description": "A comprehensive, mobile-first daily management system for Office, Union, Personal, Home, Finance, Tasks, Notes, Voice, and customizable activities with offline persistence and Google Sheets integration.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
